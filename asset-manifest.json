@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PIJET-fork/static/css/main.f37826b5.css",
-    "main.js": "/PIJET-fork/static/js/main.08549d70.js",
-    "static/js/787.a986f7b8.chunk.js": "/PIJET-fork/static/js/787.a986f7b8.chunk.js",
-    "index.html": "/PIJET-fork/index.html",
-    "main.f37826b5.css.map": "/PIJET-fork/static/css/main.f37826b5.css.map",
-    "main.08549d70.js.map": "/PIJET-fork/static/js/main.08549d70.js.map",
-    "787.a986f7b8.chunk.js.map": "/PIJET-fork/static/js/787.a986f7b8.chunk.js.map"
+    "main.css": "/static/css/main.f37826b5.css",
+    "main.js": "/static/js/main.dbdd5d1c.js",
+    "static/js/787.a986f7b8.chunk.js": "/static/js/787.a986f7b8.chunk.js",
+    "index.html": "/index.html",
+    "main.f37826b5.css.map": "/static/css/main.f37826b5.css.map",
+    "main.dbdd5d1c.js.map": "/static/js/main.dbdd5d1c.js.map",
+    "787.a986f7b8.chunk.js.map": "/static/js/787.a986f7b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f37826b5.css",
-    "static/js/main.08549d70.js"
+    "static/js/main.dbdd5d1c.js"
   ]
 }
